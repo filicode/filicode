@@ -60,6 +60,6 @@ const deleteFolderRecursive = async (path) => {
     const appDir = path.join(process.cwd(), 'app');
     const workDir = path.join(process.cwd(), 'app', 'work');
 
-    await fs.writeFile(path.join(appDir, 'page.tsx'), homePage);
-    await fs.writeFile(path.join(workDir, 'page.tsx'), workPage);
+    //await fs.writeFile(path.join(appDir, 'page.tsx'), homePage);
+    //await fs.writeFile(path.join(workDir, 'page.tsx'), workPage);
 })();
