@@ -7,17 +7,17 @@ import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export const metadata: Metadata = {
-    metadataBase: new URL('https://leerob.io'),
+    metadataBase: new URL('https://www.filicode.xyz/'),
     title: {
         default: 'Filip Kokalj Zupančič',
         template: '%s | Filip Kokalj Zupančič',
     },
-    description: 'Developer, writer, and creator.',
+    description: 'Developer and entrepreneur.',
     openGraph: {
         title: 'Filip Kokalj Zupančič',
         description: 'Software developer interested in blockchain, AI and data engineering.',
-        url: 'http://filicode.xyz',
-        siteName: 'filicoder',
+        url: 'https://filicode.xyz',
+        siteName: 'filicode',
         locale: 'en_US',
         type: 'website',
     },
