@@ -109,8 +109,8 @@ export default function Page() {
             <p className="prose prose-neutral dark:prose-invert">
                 {`a software developer from Ljubljana. In addition to software development, my main interests are AI, data analytics, cybersecurity and blockchains. Currently I `}
                 <Link href="/work">work</Link>
-                {` as a blockchain developer at `}
-                <Link href="https://www.kriptal.io/">Kriptal</Link>
+                {` as a software developer at `}
+                <Link href="https://www.mi-labs.de/">Munich Innovation Labs (MIL)</Link>
                 {` .  I hold a Bachelor's degree in computer science and informatics, and my career goal is to become a top technologist and connect with people in the industry. Above all, I want to be part of a team, company, and projects that add value to Slovenia, Europe, and the world `}
                 .
             </p>

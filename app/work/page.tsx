@@ -34,6 +34,20 @@ export default function WorkPage() {
                 <hr className="my-6 border-neutral-100 dark:border-neutral-800"/>
                 <h2 className="font-medium text-xl mb-1 tracking-tighter">Kriptal</h2>
                 <p className="text-neutral-600 dark:text-neutral-400 text-sm">
+                    Software developer, 2024 — present
+                </p>
+                <p>
+                As a member of the engineering team at MIL, my primary responsibility is maintaining and enhancing the codebase for the INspectre analysis platform, ensuring its performance, scalability, and reliability.
+                </p>
+                <ul>
+                    <li>
+                        Python, React, Microservices.
+                    </li>
+                </ul>
+
+                <hr className="my-6 border-neutral-100 dark:border-neutral-800"/>
+                <h2 className="font-medium text-xl mb-1 tracking-tighter">Kriptal</h2>
+                <p className="text-neutral-600 dark:text-neutral-400 text-sm">
                     Blockchain Developer, 2022 — present
                 </p>
                 <p>
