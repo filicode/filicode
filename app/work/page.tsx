@@ -32,7 +32,7 @@ export default function WorkPage() {
                     Here's a summary of my work so far.
                 </p>*/}
                 <hr className="my-6 border-neutral-100 dark:border-neutral-800"/>
-                <h2 className="font-medium text-xl mb-1 tracking-tighter">Kriptal</h2>
+                <h2 className="font-medium text-xl mb-1 tracking-tighter">Munich Innovation Labs (MIL)</h2>
                 <p className="text-neutral-600 dark:text-neutral-400 text-sm">
                     Software developer, 2024 — present
                 </p>
